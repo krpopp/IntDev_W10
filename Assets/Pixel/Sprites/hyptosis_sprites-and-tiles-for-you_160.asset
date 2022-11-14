@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: hyptosis_sprites-and-tiles-for-you_160
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1724111612, guid: 261363e4c18614d12ac0a90485a4a743, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b75188a87e1b2498e961c1c3c95a687d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
